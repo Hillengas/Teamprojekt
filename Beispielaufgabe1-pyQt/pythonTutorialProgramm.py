@@ -15,7 +15,7 @@ class Tetris(QMainWindow):
         
         self.initUI()
         
-        #test
+        # sourcetree test
     def initUI(self):    
         '''initiates application UI'''
 
