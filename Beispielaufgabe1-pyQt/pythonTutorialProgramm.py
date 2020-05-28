@@ -15,8 +15,12 @@ class Tetris(QMainWindow):
         
         self.initUI()
         
+<<<<<<< HEAD
         # bla bla
+        # sourcetree testgjgug
+=======
         # sourcetree test
+>>>>>>> parent of 9c59b3f... test2
     def initUI(self):    
         '''initiates application UI'''
 
